@@ -7,3 +7,5 @@ Examples:
 1. 255 (base 10) --> FF (base 16)
 2. 1100100 (base 2) --> 100 (base 10)
 3. 64 (base 16) --> 1100100 (base 2)
+
+Built with CMake 
